@@ -1,0 +1,7 @@
+git add 명령어 연습
+
+1) testfile.txt 파일 내용 수정
+2) git status 명령어로 변경점 확인
+3) git add testfile.txt 입력
+4) git status로 재확인
+5) git commit -m "메시지" 명령어를 통해서 commit

@@ -1,0 +1,28 @@
+1) git 저장소 만들기
+
+git init
+
+2) Git 사용자 정보 설정 - git config
+
+git config --global user.name "name"
+git config --global user.email "email"
+
+git config --global --list -> 현재 등록된 user와 email 확인 가능
+
+3) git add 명령어로 변경 내역 추가
+
+4) git status 로 변경 내역 확인
+
+6) git commit -m "" 명령어로 commit 실행
+
+7) git log 명령어로 확인
+
+8) GitHub 원격 저장소 연결 - git remote add
+
+git remote add origin https://github.com/GitHubID/저장소이름.git
+
+9) git remote -v 명령어로 원격 확인
+
+10) git push 명령어로 push
+
+git push origin master
